@@ -13,3 +13,5 @@ for(let i in pronoun){
 }
 
 console.log(result);
+
+// Paso 4 del ejercicio:  run el código con: "$ node app.js"   en la terminal  
